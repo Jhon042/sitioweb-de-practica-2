@@ -50,3 +50,29 @@ hr{height:10px;
 	width:90%;
 	border-color:black;
 }
+h5{
+	color:Blue;
+	font-family:"Arial";
+	font-size:40px;
+	text-align:LEFT;
+	}
+li{
+	color:purple;
+	font-family:"Arial";
+	font-size:50px;
+	text-align:LEFT;
+	}
+table
+{
+	border-collapse:collapse;
+}
+td, th{
+	border: 5px solid red;
+	font-family:"Arial";
+	font-size:60px;
+    }
+caption{
+	font-family:"Comic sans Ms";
+	font-size:65px;
+	text-align:justify;
+}
